@@ -1,1 +1,1 @@
-# java_manonit
+# java_man
